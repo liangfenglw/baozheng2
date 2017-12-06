@@ -1,0 +1,194 @@
+.Imain{ width: 100%; background:url(../images/c3.jpg) 0px 0px / 100% 100% no-repeat scroll transparent;; height: auto;  float: left;}
+.container{ width: 80%; margin: auto; padding: 11% 10%;}
+.centermain{ width: 25%; height: auto; padding: 1%; float: left;}
+.templatemo_link{ width: 100%; padding: 25% 0; text-align: center;}
+.templatemo_link a{ font-size: 2em; text-align: center; color: #fff; text-decoration:none;}
+.img_Imain{ width: 100%; height: auto;  }
+.img_Imain img{ width: 100%;height: auto; }
+
+td{padding: 7px 2px;}
+
+.user-nav .dropdown-menu{ margin-top: 60px; }
+.user-nav > ul > li.open > a{ border-left:1px solid #ccc; border-right:1px solid #ccc; }
+.user-nav > ul > li > a{border-left:1px solid #ccc; border-right:1px solid #ccc; }
+
+.Iartice{ width: 95%; height: auto; margin:auto; margin: 2%;background:#fff; float:left; padding-bottom:5%; }
+.IAhead{ width: 100%; line-height:3em; font-size: 1em; padding:0 2%; background:#dae1e6; }
+.IAhead a{ width: auto; font-size: 0.9em; color: #666; margin: 0 10px; padding-top:10px;}
+.IAMAIN{ width: 80%; height:auto; margin:auto; padding-top:60px; }
+.IAMAIN select{ width:150px; text-align:center;}
+select {
+	vertical-align: middle;
+	background: none repeat scroll 0 0 #F9F9F9;
+	border-color: #666666 #CCCCCC #CCCCCC #666666;
+	border-style: solid;
+	border-width: 1px;
+	color: #333;
+	padding: 2px; font-size: 12px; padding: 5px ;
+}
+.IAhead a.cur{ color: #731d09; font-weight: 700; }
+input{color: #333; background: #fff; border: 1px solid #c9c9c9; height: 30px;}
+.Iar_input{ width: 450px; }
+.IAMAIN table tr{height: 40px;}
+.IAMAIN table tr i{color: #ccc;}
+.Iar_inputt{width: 350px; }
+.Iar_inpun{width: 90px; }
+.Iar_list{width: 200px; margin-right: 15px;}
+.IMar_list{width: 40px; margin-top: 5px;}
+
+input.button {
+    background: #ddd;
+    border: 0px;
+    height: 24px;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 1px solid #666;
+    border-right: 1px solid #666;
+    display: block;
+    padding: 0px 6px;
+    font-size: 12px;
+    line-height: 25px;
+    display: inline-block;}
+.Alist{ float: right; width: 100%; height: auto; font-size: 12px; margin:0 25px;}
+
+.Alist select {
+	vertical-align: middle;
+	background: none repeat scroll 0 0 #F9F9F9;
+	border-color: #666666 #CCCCCC #CCCCCC #666666;
+	border-style: solid;
+	border-width: 1px;
+	color: #333;
+	padding: 2px; font-size: 12px; padding: 5px 10px; margin: 0 5px;
+}
+.Alist_head{background: #e9eaea; line-height:30px; }
+.Alist_head th{font-weight: 700;  text-align: center;}
+.IAMAIN_list{ width: 100%; height:auto; margin: 25px; }
+.Alist_main td{text-align: center; line-height:25px; border: 1px solid #eee;}
+
+input[type="radio"]{width: 13px; height: 13px;	}
+input[type="checkbox"]{width: 13px; height: 13px;}
+
+label.lb_radio{			margin-bottom:0;	margin-right:12px;	}
+label.lb_radio input[type='radio']{	position:relative;	top:2px;	margin-right:3px;		}
+
+.xqorder{ width: 240px; height: auto; float: left; margin: 15px; }
+.xqorder img{ width: 240px; height: 150px; }
+.xqorder h3{ font-size: 1em; line-height:1.5em ;margin-top: 10px; float: left;}
+.xqO_img{width: 240px;height: 150px; border: 1px solid #eee; float: left;}
+.xORder{padding-top: 20px; float:left;margin-left: 5%; width: 95%;}
+.xORder tr td{ float: left; padding-right: 10px; line-height: 40px }
+.xORder tr{ border-bottom: 1px dashed #ccc }
+
+
+
+
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{display:inline-table; float: left;}/* Hides from IE-mac \*/
+.Brand_main{ width: 70%; height: auto; }
+.Brand_main li{ float: left;list-style-type:none;}
+.Brand_main li a{ float: left;width:auto; }
+
+
+
+.default-tag a,.default-tag a span,.plus-tag a,.plus-tag a em,.plus-tag-add a{background:url(../images/tagbg.png) no-repeat;}
+.tagbtn a{color:#333333;display:block;float:left;height:22px;line-height:22px;overflow:hidden;margin:0 10px 10px 0;padding:0 10px 0 5px;white-space:nowrap;}
+/* default-tag */
+.default-tag{padding:16px 0 0 0;float:left; width: 100%;}
+.default-tag a{background-position:100% 0;}
+.default-tag a:hover{background-position:100% -22px;}
+.default-tag a span{padding:0 0 0 11px;background-position:0 -60px;}
+.default-tag a:hover span{background-position:0 -98px;}
+.default-tag a.selected{opacity:0.6;filter:alpha(opacity=60);}
+/* plus-tag */
+.plus-tag a span{float:left;}
+.plus-tag a em{display:block;float:left;margin:5px 0 0 8px;width:13px;height:13px;overflow:hidden;background-position:-165px -100px;cursor:pointer;}
+.plus-tag a:hover em{background-position:-168px -64px;}
+/* plus-tag-add */
+.plus-tag-add a{float:left;display:inline;font-size:12px;background-position:-289px -62px;padding:0 0 0 15px;list-style-type:none; color: red;}
+.plus-tag-add a.plus{background-position:-289px -99px;}
+
+.Goodslist{ width: 100%; height: auto;float:left;}
+.GoodsLmain{ width:17.2%; height: 375px; float: left; margin:1%; }
+.GoodsLmain img{ width: 100%; height: auto; max-height:250px; }
+.GoodsML_head{ line-height: 20px; font-size: 12px; text-align:left; width: 100%;float: left; padding-top: 5px;}
+.GoodsML_head span{ float: right; padding-right: 10px;  }
+.GoodsML_head  p{ width:auto; float:left; padding-right:10px;line-height: 20px; margin-bottom:-10px;}
+.Gbottom{ width: 100%; float: left; height: auto; margin-top: 5px; }
+.Gbottom span{ float:left; width:auto;font-size: 12px;line-height: 2em; }
+.Gbottom a{ width: auto; padding: 0 10px; line-height: 2em; font-size: 12px; text-align: center; border: 1px solid #eee; float: right; margin-left:10px;}
+.zhigou a{color:#ff0000;display: none;}
+.jifen a{}
+
+.stext{ width: 100px; }
+
+.asnt{ width: 180px; }
+
+.describe{ width: 75%; height:70px; }
+.dd_read_img{ width:72%; height:auto; margin:20px 0% 20px 12%;; float:left; border:1px solid #ccc;}
+.dd_read_img img{ width:100%; height:auto;}
+.dd_read_right{ margin-top:20px; float:left;width:85%;}
+.read_top{ width:98%; height:auto; float:left; background:#eee; margin-bottom:30px; padding:2%;}
+
+
+
+
+#guige{	
+	width: 100%;
+	aborder: 1px solid #999;
+	padding: 0px;
+	margin: 5px 0 0;
+}
+
+#guige h3 {
+	margin: 0;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+#guige_list {
+	amin-height: 100px;
+	padding-top: 20px;
+}
+
+#goods_spec_table1 {
+	background: #fff;
+}
+
+#goods_spec_table2 {
+	width: 100%;
+}
+
+#goods_spec_table1 th,
+#goods_spec_table2 th,
+#goods_spec_table1 td,
+#goods_spec_table2 td {
+	padding: 8px;
+	line-height: 1.42857143;
+	vertical-align: middle;
+	border: 1px solid #ddd;
+}
+
+#goods_spec_table1 th,
+#goods_spec_table2 th {
+	font-weight: 700;
+}
+
+.btn-default {
+	background-color: buttonface;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
